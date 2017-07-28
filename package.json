@@ -1,0 +1,16 @@
+{
+  "name": "drive",
+  "version": "1.0.0",
+  "description": "Project to test google drive uploads",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^20.1.0",
+    "google-auth-library": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhinit Ambastha",
+  "license": "ISC"
+}
